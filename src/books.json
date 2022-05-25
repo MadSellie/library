@@ -1,0 +1,51 @@
+{
+  "books": [
+    {
+      "id": "3060b739-a733-4557-8188-04272488f90c",
+      "author": "John",
+      "name": "Hello",
+      "genre": "fantasy"
+    },
+    {
+      "id": "94d0e527-c04f-429d-b7cd-8be9248e0fa2",
+      "author": "Alex",
+      "name": "World",
+      "genre": "lirycs"
+    },
+    {
+      "id": "2fb9fb77-1b05-453c-823a-edab59bae147",
+      "author": "Gause",
+      "name": "I'm using React",
+      "genre": "romance"
+    },
+    {
+      "id": "4b4ca28d-e37a-41e4-8095-730e80f69cb6",
+      "author": "Sam",
+      "name": "Waiting compilation",
+      "genre": "detective"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fantasy",
+      "className": "btn-danger"
+    },
+    {
+      "name": "lirycs",
+      "className": "btn-primary"
+    },
+    {
+      "name": "romance",
+      "className": "btn-success"
+    },
+    {
+      "name": "detective",
+      "className": "btn-secondary"
+    }
+  ]
+}
